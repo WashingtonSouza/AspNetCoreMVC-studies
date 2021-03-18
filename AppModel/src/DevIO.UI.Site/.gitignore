@@ -18,7 +18,10 @@ wwwroot/lib/*
 *.sln.docstates
 
 # Visual Studio 2015 cache/options directory
-.vs/
+/.vs/AppModel/v16/
+/AppModel/v16/
+*.suo
+.vs
 
 # User-specific files (MonoDevelop/Xamarin Studio)
 *.userprefs
